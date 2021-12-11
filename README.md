@@ -6,7 +6,7 @@ The new Horiseon website that fully meets accessibility standards and has semant
 
 ## Screenshot
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot2.png)
 
 ## Links to Application
 
